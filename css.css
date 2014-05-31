@@ -1,0 +1,29 @@
+* {
+	font-family: arial;
+	font-size:12px;
+	margin:0;
+	padding:0;
+}
+
+label, input{
+	display: block;
+	margin: 5px 40px;
+}
+input {
+	margin: 5px 0 5px 87px;
+}
+div {
+	border:2px solid black;
+	width: 210px;
+	padding: 10px 20px;
+}
+.success {
+	background-color: #71AE4C;
+}
+
+.error {
+	background-color: pink;
+}
+.button {
+	margin: 5px 0 5px 165px;
+}
